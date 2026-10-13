@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 sja0203
-## Favorite Password
+## Favorite Professor
 Mohammed Abutayyem
